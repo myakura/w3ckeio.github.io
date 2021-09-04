@@ -15,6 +15,9 @@
 
 ## 公開された仕様の更新
 
+[ClearSpec2021](https://github.com/w3c/tr-pages/blob/main/clearspec2021.md)に基づく頻繁な更新の仕様（GitHubでのメイン作業ブランチの更新ごとに/TR/を更新する）が採用されているWGが多く、月内に頻繁に更新されているためでリンク先は月内の最新版のみです。後ろの日付は参考までのものになります。
+
+
 * FPWD公開
   * [title](link to TR)、[ニュースポスト](link to blog)
 * WD更新
@@ -27,18 +30,7 @@
 
 ### 新規追加されたレポジトリ
 
-* API
-  * [w3c](https://api.github.com/orgs/w3c/repos?direction=desc&sort=created)
-  * [immersive-web](https://api.github.com/orgs/immersive-web/repos?direction=desc&sort=created)
-  * [WICG](https://api.github.com/orgs/WICG/repos?direction=desc&sort=created)
-  * [webmachinelearning](https://api.github.com/orgs/webmachinelearning/repos?direction=desc&sort=created)
-  * [gpuweb](https://api.github.com/orgs/gpuweb/repos?direction=desc&sort=created)
-  * [privacycg](https://api.github.com/orgs/privacycg/repos?direction=desc&sort=created)
-  * [w3cping](https://api.github.com/orgs/w3cping/repos?direction=desc&sort=created)
-  * [w3ctag](https://api.github.com/orgs/w3ctag/repos?direction=desc&sort=created)
-  * [WebAudio](https://api.github.com/orgs/WebAudio/repos?direction=desc&sort=created)
-  * [WebAssembly](https://api.github.com/orgs/WebAssembly/repos?direction=desc&sort=created)
-  * [mathml-refresh](https://api.github.com/orgs/mathml-refresh/repos?direction=desc&sort=created)
+[ツール](00ListRepo.html)のテキスト出力をここにコピペする
 
 ## 公開されたブログポスト
 
@@ -48,3 +40,4 @@
 
 ## W3Cメンバー更新
 
+新規加入一覧です（退会のリストはありません）
