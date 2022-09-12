@@ -12,44 +12,44 @@
 [W3C週間ニュースのアーカイブ(英語)](https://lists.w3.org/Archives/Public/w3c-announce/20XXXXXXXX/subject.html)も提供されています。
 [前月分はこちら](20XXXX.md)。
 
-## ニュース・ブログポスト
-
-* [blog](https://www.w3.org/blog/)
-* [news](https://www.w3.org/blog/news/)
+## [ニュース](https://www.w3.org/blog/news/)・[ブログポスト](https://www.w3.org/blog/)
 
 * ニュース
 * 一般
 * WGアップデート
-* 仕様公開関係
 
-
-### 直近の予定
+## 直近の予定・最近の変更
 
 * upcoming events list
 * [strategy repository](https://github.com/w3c/strategy/issues)
   * 該当月中に提案されこのページ作成時点で議論・検討中のもの
-  * 該当月中に動きがあったもの、ステータスサマリー付き
-* WGなどの憲章策定・更新によるCall for Participation
+  * charterについて該当月中に動きがあったもの、ステータスサマリー付き
+  * 新領域などについての議論
+* WGなどの憲章策定・更新によるCall for Participation、chair変更
   * [chairs listのメールより](https://lists.w3.org/Archives/Member/chairs/)
+  * co-chair
+* その他トピック
+  * [spec-prod](https://lists.w3.org/Archives/Public/spec-prod/)
 
 ## 公開された仕様の更新
 
 [ClearSpec2021](https://github.com/w3c/tr-pages/blob/main/clearspec2021.md)に基づく頻繁な更新の仕様（GitHubでのメイン作業ブランチの更新ごとに/TR/を更新する）が採用されているWGが多く、月内に頻繁に更新されているためでリンク先は月内の最新版のみです。後ろの日付は参考までのものになります。
 
 * FPWD, CR, PR, RECの公開はnewsに載るため、そこからリストを引っ張る
-* このディレクトリにあるスクリプトでたたき台が出る。cvsのディレクトリで`find . -type d -name '*-202110*' | sed -e 's/^\.\///' | ./00trcoord.py`を実行
+* このディレクトリにあるスクリプトでたたき台が出る。cvsのディレクトリで`find . -type d -name '*-20YYMM*' | sed -e 's/^\.\///' | ./00trcoord.py`を実行
+  * `https://w3c.github.io/browser-specs/index.json`を実行ディレクトリに置くとデータを読みます
 
 * FPWD公開
   * [title](link to TR)、[ニュースポスト](link to blog)
 * WD更新
-* CR公開
 * CRD更新
-* CR更新
+* CRS公開、更新
 * PR公開
 * REC公開、更新
+* DNOTE更新
 * NOTE公開、更新
 
-### 新規追加されたレポジトリ
+## 新規追加されたGitHubレポジトリ
 
 [ツール](https://w3ckeio.github.io/monthly-summary/00ListRepo.html)のテキスト出力をここにコピペする
 
