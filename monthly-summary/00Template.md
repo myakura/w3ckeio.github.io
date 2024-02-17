@@ -8,11 +8,9 @@
 - W3Cメンバー更新(新規加入)：
 
 20XX年XX月のW3C関係のアップデートのまとめです。
-また、[W3C週間ニュース(英語)](https://www.w3.org/News/Public/)や、
-[W3C週間ニュースのアーカイブ(英語)](https://lists.w3.org/Archives/Public/w3c-announce/20XXXXXXXX/subject.html)も提供されています。
 [前月分はこちら](20XXXX.md)。
 
-## [ニュース](https://www.w3.org/blog/news/)・[ブログポスト](https://www.w3.org/blog/)
+## [ニュース](https://www.w3.org/news/)・[ブログポスト](https://www.w3.org/blog/)
 
 * ニュース
 * 一般
@@ -20,13 +18,16 @@
 
 ## 直近の予定・最近の変更
 
-* upcoming events list
+* [upcoming events list](https://www.w3.org/participate/eventscal.html)
 * [strategy repository](https://github.com/w3c/strategy/issues)
+  * Advance notice
+    * [public-new-work](https://lists.w3.org/Archives/Public/public-new-work/2023Jun/)とかからピックアップ
   * 該当月中に提案されこのページ作成時点で議論・検討中のもの
   * charterについて該当月中に動きがあったもの、ステータスサマリー付き
   * 新領域などについての議論
 * WGなどの憲章策定・更新によるCall for Participation、chair変更
   * [chairs listのメールより](https://lists.w3.org/Archives/Member/chairs/)
+  * CG/BG
   * co-chair
 * その他トピック
   * [spec-prod](https://lists.w3.org/Archives/Public/spec-prod/)
@@ -48,8 +49,12 @@
 * REC公開、更新
 * DNOTE更新
 * NOTE公開、更新
+* Draft Registry更新
+* Registry公開、更新
 
 ## 新規追加されたGitHubレポジトリ
+
+### [validate-repos](https://w3c.github.io/validate-repos/)にあるレポジトリの数
 
 [ツール](https://w3ckeio.github.io/monthly-summary/00ListRepo.html)のテキスト出力をここにコピペする
 
